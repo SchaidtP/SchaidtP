@@ -30,7 +30,7 @@
 </table>
 
 ## Contato
-- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](schaidt534@gmail.com)
-- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/schaidt-patriota-ab8b13202/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](schaidt534@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/schaidt-patriota-ab8b13202/)
 
 Fique à vontade para me contatar para trocarmos experiências ou discutir oportunidades de colaboração! 🚀
